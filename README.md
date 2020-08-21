@@ -1,13 +1,13 @@
-# Recursos
+# Back-end da aplicação [Proffy](https://github.com/EdeiltonSO/ProffyWeb)
 
-## Conexões
-- Rota para listar o total de conexões realizadas;
-- Rota para registrar nova conexão;
+## Recursos:
 
-## Aulas
+### Conexões
+Rota para listar o total de conexões realizadas;
+Rota para registrar nova conexão;
 
-- Rota para criar uma aula;
+### Aulas
 
-Em desenvolvimento:
-- Rota para listar aulas:
-    - Com filtro por matéria, dia da semana e horário;
+Rota para criar uma aula;
+Rota para listar aulas:
+    Filtros obrigatórios: matéria, dia da semana e horário;
