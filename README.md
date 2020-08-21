@@ -11,6 +11,4 @@ Rota para registrar nova conexão;
 
 Rota para criar uma aula;
 
-Rota para listar aulas:
-
-    Filtros obrigatórios: matéria, dia da semana e horário;
+Rota para listar aulas (filtros obrigatórios: matéria, dia da semana e horário);
